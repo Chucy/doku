@@ -1,6 +1,7 @@
 baseURL = 'https://chucy.github.io/doku/'
 languageCode = 'en-us'
 title = 'Doku'
+theme = "hugo-geekdoc"
 
 
 pluralizeListTitles = false
